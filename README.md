@@ -1,5 +1,5 @@
 # pwcrack
-This program demonstrates a flaw in a password encryption method used by a commercial product
+This program demonstrates a flaw in a password encryption method found while reverse engineering a commercial product
 
 pwencrypt.h contains the original routine as reverse engineered from the product binary
 
